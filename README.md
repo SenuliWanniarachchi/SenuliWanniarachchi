@@ -14,7 +14,10 @@
 - Software Engineer Intern (Full Stack Development)  
 - Working with Java, Spring Boot, React  
 - Passionate about building scalable web applications  
-- Continuously learning and improving skills  
+- Continuously learning and improving skills
+
+- ⚠️ Note: Active coding contributions are primarily on GitLab for company projects. GitHub contributions reflect personal and open-source projects.
+
 
 ---
 
